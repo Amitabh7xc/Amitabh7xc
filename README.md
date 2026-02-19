@@ -1,10 +1,16 @@
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
 
 
 # Hi, I'm Amitabh 👋
 I love building AI-powered products and optimizing infrastructure to make systems scalable and cost-efficient. Currently exploring cloud architecture, DevOps, and distributed AI systems.
+ 
+ <td width="60%" valign="top" align="center">
+      <img src="./gif.gif" width="320px">
+    </td>
+  </tr>
+</table>
 
 ## 💫 About Me:
 🔭 I’m currently working on:<br>Building AI-powered tools focused on cost optimization, cloud efficiency, and scalable MVP systems.<br><br>🤝 I’m looking to collaborate on:<br>Open-source DevOps tools, AI infrastructure projects,  DevOps Projects and cost-efficient AI deployment systems.<br><br>🆘 I’m looking for help with:<br>Advanced system design, distributed AI architecture, and scaling AI workloads efficiently.<br><br>🌱 I’m currently learning:<br>Cloud architecture, Kubernetes, AI cost optimization strategies, and production-grade DevOps workflows.<br><br>💬 Ask me about:<br>AI cost reduction, MVP building with Streamlit, cloud basics, and DevOps fundamentals.<br><br>⚡ Fun fact:<br>I love turning complex AI ideas into simple, cost-efficient real-world solutions.
@@ -24,9 +30,5 @@ I love building AI-powered products and optimizing infrastructure to make system
 ![](https://github-profile-trophy.vercel.app/?username=Amitabh7xc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </td>
 
-  <td width="100%" valign="top" align="center">
-      <img src="./gif.gif" width="400px">
-    </td>
-  </tr>
-</table>
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
