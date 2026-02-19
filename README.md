@@ -4,7 +4,7 @@
 
 
 # Hi, I'm Amitabh 👋
-I love building AI-powered products and optimizing infrastructure to make systems scalable and cost-efficient. Currently exploring cloud architecture, DevOps, and distributed AI systems.
+#### I love building AI-powered products and optimizing infrastructure to make systems scalable and cost-efficient. Currently exploring cloud architecture, DevOps, and distributed AI systems.
  
  <td width="60%" valign="top" align="center">
       <img src="./gif.gif" width="320px">
