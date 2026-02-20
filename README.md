@@ -15,7 +15,7 @@
 ## 💫 About Me:
 🔭 I’m currently working on:<br>Building AI-powered tools focused on cost optimization, cloud efficiency, and scalable MVP systems.<br><br>🤝 I’m looking to collaborate on:<br>Open-source DevOps tools, AI infrastructure projects,  DevOps Projects and cost-efficient AI deployment systems.<br><br>🆘 I’m looking for help with:<br>Advanced system design, distributed AI architecture, and scaling AI workloads efficiently.<br><br>🌱 I’m currently learning:<br>Cloud architecture, Kubernetes, Terraform best practices, AI cost optimization strategies, and production-grade DevOps workflows.<br><br>💬 Ask me about:<br>AI cost reduction, MVP building with Streamlit, cloud basics, and DevOps fundamentals.<br><br>⚡ Fun fact:<br>I love turning complex AI ideas into simple, cost-efficient real-world solutions.
 
-## Skills 
+## Skills  
 
 ### DevOps & Cloud
   
